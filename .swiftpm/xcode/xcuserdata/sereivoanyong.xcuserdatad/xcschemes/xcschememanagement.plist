@@ -4,7 +4,14 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>SortedSet.xcscheme</key>
+		<key>Playground (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>SortedSet.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +19,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>A2A1B85F1CE21AB600A44EEA</key>
+		<key>SortedSet</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>A2A1B8691CE21AB600A44EEA</key>
+		<key>SortedSetTests</key>
 		<dict>
 			<key>primary</key>
 			<true/>
